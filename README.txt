@@ -1,6 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/codyhouse/pen/pIrbg.
+A Pen created at CodePen.io. You can find this one at https://codepen.io/ehermanson/pen/KwKWEv.
 
- Just a handy login-signup modal window
-
-Article and download on Cody:
-http://codyhouse.co/gem/loginsignup-modal-window/
+ A design for a sign-up/login form using tabs and floating form labels.
